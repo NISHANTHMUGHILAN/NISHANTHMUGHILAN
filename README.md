@@ -7,6 +7,7 @@ I'm a passionate and enthusiastic fresher ready to embark on my tech journey. Wi
 - **Programming Languages:** Java, Python, C
 - **Web Development:** HTML, CSS, JavaScript, Spring Boot
 - **Data Science & Machine Learning:** Machine Learning, PyTorch, Pandas
+- **Data Base:** MySQL
 
 ## 🌟 Featured Project
 
